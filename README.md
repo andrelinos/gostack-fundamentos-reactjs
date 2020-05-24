@@ -27,7 +27,8 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-
+## Tela da aplicação
+<img src="print-desafio07.png" alt="Aplicação GoFinances Web">
 
 ## :rocket: Sobre o desafio
 
