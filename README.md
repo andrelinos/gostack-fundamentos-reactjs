@@ -132,7 +132,7 @@ Para esse desafio, temos os seguintes testes:
 
 **Dica**: Deixamos disponível um componente chamado `FileList` na pasta `components` para ajudar você a listar os arquivos que enviar pelo componente de `Upload`, ele deve exibir o título do arquivo e o tamanho dele.
 
-## :globe: Como baixar
+## :arrow_down: Como baixar
 - Abra o terminal no seu computador
 - Acesse a pasta de constume onde você baixa projetos
 - Execute o segunte comando
@@ -145,7 +145,7 @@ Para esse desafio, temos os seguintes testes:
   ```
 - Em seguida abra o projeto com seu editor de códigos
 
-## :rocket: Como executar
+## :running: Como executar
 - Abra o terminal dentro da pasta do projeto
 - Execute o comando abaixo
 ```zsh
